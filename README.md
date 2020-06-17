@@ -1,6 +1,6 @@
 A simple python websocket proxy, with per message deflate compression support
 unlike nginx, apache or haproxy which just proxy at the TCP level. Alpha
-quality, *not* battle-tested, a fast but functional experiment.
+quality, *not* battle-tested, a quick but functional experiment.
 
 # Usage
 
